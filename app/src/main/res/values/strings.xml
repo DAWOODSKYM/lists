@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lists</string>
+    <string-array name="persons">
+        <item>John Tery</item>
+        <item>David Kym</item>
+        <item>James Blacksnow</item>
+        <item>Hellen Katerina</item>
+        <item>Anthony TearGas</item>
+        <item>Peter Collins</item>
+        <item>Dawoods lion</item>
+        <item>Olivia VAshnadze</item>
+        <item>Brenda Mulili </item>
+        <item>Arsene Wenger</item>
+        <item>Mesut Ozil</item>
+        <item>Kko DiRastar</item>
+        <item>Akoko Naomi</item>
+        <item>Fiona Jusper</item>
+        <item>Peter Gadafi</item>
+        <item>Sido Mtemi</item>
+        <item>Grusha Akoko</item>
+    </string-array>
+</resources>
